@@ -1,43 +1,44 @@
-# DJANGO BACKEND SERVER
+## Backend Setup Instructions (Django Server):
+### Setup with pipenv:
+### Navigate to the folder containing the Pipfile and Pipfile.lock.
 
-## set up instruction using pipenv
-
-### navigate to the folder containing Pipfile and Pipfile.lock
-
-#### step 1 : to activate environment 
+### Step 1: Activate the virtual environment:
 
 ```
 pipenv shell
 
 ```
 
-#### step 2 : to install dependencies for our server 
-Note: this instruction needs to be run only the first time to install dependencies
+#### Step 2: Install server dependencies (only required the first time):
+
 
 ```
 pipenv install  
 
 ```
 
-#### step 1 : to run the server
-Navigate to the folder containing manage.py file in this case 
+#### Run the Server:
+
+a. Navigate to the folder containing manage.py:
 
 ```
 cd backend\
 ```
-and then type this
+b. Start the Django server:
 
 ```
 pipenv run python manage.py runserver
 
 ```
 
-## if error occurs 
+## Troubleshooting
 
 #### remove the Pipfile and Pipfile.lock
 
-and then use any python virtual environment management pakage like pipenv or venv or poetry
+Remove the Pipfile and Pipfile.lock. <br>
 
-## example using only pip
-
+Use any Python virtual environment management package like pipenv, venv, or poetry.
+```
 pip install -r requirements.txt
+```
+
