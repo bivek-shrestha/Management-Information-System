@@ -1,5 +1,6 @@
 # Frontend and Backend Setup for MIS
-## Welcome to the setup guide for the Management Information System (MIS) Frontend and Backend components. Follow these steps to get started quickly.
+## Welcome to the setup guide for the Management Information System (MIS) Frontend and Backend components. 
+### Follow these steps to get started quickly.
 ## Frontend Setup instructions:
 
 
