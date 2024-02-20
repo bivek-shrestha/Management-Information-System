@@ -1,5 +1,4 @@
-# DJANGO BACKEND SERVER FOR MIS (IOE) CAMPUS
-## this is our backend server for the department of computer and electronics engineering pulchowk campus
+# DJANGO BACKEND SERVER
 
 ## set up instruction using pipenv
 
