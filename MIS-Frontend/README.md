@@ -1,23 +1,16 @@
-# Frontend for MIS
+## Frontend Setup instructions:
 
-## Setup instructions:
 
-### Prerequistes
-
-node must be installed.
-
-### for the first time only
-
-We only need to install all our dependencies only once.
-Move to folder with package.json file and type the following command.
+### Initial Setup:
+#### Install all required dependencies by navigating to the folder containing the package.json file and executing the following command
 
 ```
 npm install
 ```
 
-### everytime when you need to start development server.
+### Development Server:
+#### To start the development server, use the following command:
 
 ```
 npm run dev
 ```
- 
