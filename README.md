@@ -12,7 +12,7 @@ npm install
 ```
 
 ### Development Server:
-####To start the development server, use the following command:
+#### To start the development server, use the following command:
 
 ```
 npm run dev
